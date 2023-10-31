@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aplicacion miriam", "aplicacion miriam\aplicacion miriam.csproj", "{CDAA0917-692C-4644-8C7D-371D4137483A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDAA0917-692C-4644-8C7D-371D4137483A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDAA0917-692C-4644-8C7D-371D4137483A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDAA0917-692C-4644-8C7D-371D4137483A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDAA0917-692C-4644-8C7D-371D4137483A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A481C11-7777-4617-97B9-11482EBDFB17}
+	EndGlobalSection
+EndGlobal
